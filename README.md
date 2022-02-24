@@ -1,5 +1,6 @@
 Deployed App : https://user-fetcher29-anu2912.vercel.app/
 
+Preview : 
 
 ![user-fetcher1](https://user-images.githubusercontent.com/68178931/155447327-81bd29d2-0f42-43e1-95ca-6b062ad3825a.png)
 ![user-fetcher2](https://user-images.githubusercontent.com/68178931/155447361-3f54341e-388e-4b2e-a0a0-dc654e0982bb.png)
